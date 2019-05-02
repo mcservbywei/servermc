@@ -1,0 +1,18 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "minecraft-build-packs"
+    }
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "servermc",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
